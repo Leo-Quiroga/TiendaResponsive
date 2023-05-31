@@ -36,7 +36,7 @@
     .col-xs-12{width: 100%;}
 }
 
-/* Responsive para tablets*/
+/*Responsive para tablets*/
 
 @media only screen and (min-width: 600px ){
     .col-s-1{width: 8.33%;}
@@ -85,7 +85,7 @@
     .col-l-10{width: 83.33%;}
     .col-l-11{width: 91.66%;}
     .col-l-12{width: 100%;}
-}
+} 
 
 /* Responsive para escritorio grande*/
 
